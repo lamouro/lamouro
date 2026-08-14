@@ -7,4 +7,4 @@ My experience runs across custom hardware, IT infrastructure, and digital market
 Outside of work I'm a photographer. It's sharpened how I see detail and composition, and taught me to keep an eye on the bigger picture at the same time.
 
 
-<p align="center"> <sub>Always open to connecting. <a href="mailto:jack.lam251@gmail.com">Get in touch.</a></sub> </p>
+<p align="center"> <sub>Always open to connecting. <a href="mailto:lamoureux.ja@northeastern.edu">Get in touch.</a></sub> </p>
