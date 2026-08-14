@@ -2,6 +2,7 @@
 About
 Business Administration student at Northeastern University, concentrating in Entrepreneurial Startups, and founder of Lamoureux Enterprises LLC. My interests sit at the intersection of technology, AI, and business.
 
+
 My experience runs across custom hardware, IT infrastructure, and digital marketing; the practical work of getting systems to actually do something useful for a business. What I'm drawn to hasn't changed much: building smarter systems, automating workflows, and finding an edge where other people aren't looking.
 
 Outside of work I'm a photographer. It's sharpened how I see detail and composition, and taught me to keep an eye on the bigger picture at the same time.
